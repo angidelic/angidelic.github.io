@@ -1,4 +1,16 @@
-# angidelic.general
-Config files for my GitHub profile.
-### test add new line
-## what does this do
+# About
+This repository hosts the work I've done throughout the Data Science prrogram.
+
+
+
+# Work/Projects
+
+
+
+# Contact
+### Angie Oehler
+- 402-734-9375
+- angidelic1@gmail.com
+
+
+
