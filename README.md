@@ -72,9 +72,12 @@ This portfolio highlights my experience programming in Python and R as well as c
 >>>Feature analysis  
 >>>Model evaluations  
 
-# Contact  
+# Contact & Resume  
 **Angie Oehler**  
-angidelic@gmail.com
+angidelic@gmail.com  
+  
+[Resume](https://github.com/angidelic/angidelic.github.io/blob/main/Angie_Oehler_Resume.pdf) 
+
 
 
 
