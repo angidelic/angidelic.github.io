@@ -72,6 +72,17 @@ This portfolio highlights my experience programming in Python and R as well as c
 >>>Feature analysis  
 >>>Model evaluations  
 
+[Music Therapy](https://github.com/angidelic/angidelic.github.io/tree/main/Music%20Therapy)    
+>Examination of music therapy and anxiety disorders  
+>>>White paper  
+>>> Presentation with audio  
+>>>Supporting python code
+ 
+[Analysis & Sentiments](https://github.com/angidelic/angidelic.github.io/tree/main/Analysis%20%26%20Networks)    
+>Graph and sentiment analysis as well as an exploration of neural networks
+>>>Supporting python code
+
+   
 # Contact & Resume  
 **Angie Oehler**  
 angidelic@gmail.com  
