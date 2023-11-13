@@ -7,8 +7,5 @@ This directory displays the following skills:
 	2. EDA, analysis, and plotting
 	
 	3. Text analysis 
-	
-	4. SQL
-	
-	5. Working with API's and web scraping
+
 	
