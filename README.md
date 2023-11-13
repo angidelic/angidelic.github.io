@@ -1,8 +1,12 @@
 # About  
 **About Me**  
-I am a data scientist with over 5 years’ experience collecting, analyzing, and presenting data.  I am proficiency in creating business intelligence reports for department and senior management. I have also served as liaison between project managers and developers to create project documentation and workflows.  
+My name is Angie Oehler and I am a data scientist with over 5 years’ experience collecting, analyzing, and presenting data.  I am proficient in creating business intelligence reports for departments and senior management. I have also served as liaison between project managers and developers to create project documentation and workflows.  
 
-I have master’s degrees in Data Science, Computer Information Systems, and Cybersecurity.
+>**Education**
+>>I have master’s degrees in:
+>>*  Data Science
+>>*  Computer Information Systems
+>>*  Cybersecurity
 
 >**Skills**
 >>* Extensive experience working with business groups to design reports   
