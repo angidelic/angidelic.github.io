@@ -1,4 +1,4 @@
-This directory is a collection of various work I've done in Python.  
+This directory is a collection of various work I've done in R.  
 
 This directory displays the following skills:
 
