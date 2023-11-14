@@ -1,7 +1,7 @@
 Presentations and Dashboards 
 
 The purpose behind this directory is to show my skill set in all three formats by 
-showing a Sid-by-side comparison of similar work.
+showing a Side-by-side comparison of similar work.
 
 This directory contains:
 1. Two powerpoint presentations (as PDF’s) and their corresponding summaries.
