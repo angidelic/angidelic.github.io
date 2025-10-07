@@ -87,7 +87,7 @@ This portfolio highlights my experience programming in Python and R as well as c
 >>>Supporting python code
 
    
-# Contact & Resume  
+# Contact Information 
 **Angie Oehler**  
 angidelic@gmail.com  
 
