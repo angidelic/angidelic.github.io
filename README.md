@@ -5,34 +5,36 @@ I am a data-focused project leader with over 10 years of experience delivering a
 I specialize in building dashboards, validating data, and translating complex information into clear, actionable insights that support decision-making. I have led cross-functional initiatives, developed reporting frameworks, and worked closely with stakeholders to improve processes, reporting accuracy, and operational efficiency.  
 
 >**Education**
->>I have master’s degrees in:
->>*  Data Science
->>*  Computer Information Systems
->>*  Cybersecurity
+>>*  Master of Science in Data Science
+>>*  Master of Science in Computer Information Systems
+>>*  Master of Science in Cybersecurity
 
 >**Skills**
->>* Extensive experience working with business groups to design reports   
->>* Statistical modeling and natural language processing  
->>* Data mining and deep learning  
->>* Collaborate with other teams and managers to provide business intelligence reports  
->>* Strong understanding of database structures and code to perform reviews and updates as needed
+>>* Data Analysis and Validation
+>>* Business Intelligence and Reporting
+>>* Dashboard Development
+>>* SQL and Data Querying
+>>* Data Modeling and Transformation
+>>* Statistical Analysis and Predictive Modeling
+>>* Requirements Gathering and Documentation
+>>* Process Improvement and Workflow Optimization
+>>* Stakeholder Communication
 >>
 >**Proficiencies**	
->>* SQL  
->>* Python  
->>* R  
->>* Power BI  
->>* Tableau  
+>>* SQL | Python | R  
+>>* Power BI | Tableau  
 >>* Microsoft Windows, Office, Excel, Visio, PowerPoint, and SQL Server  
 >>* Apple OS and iWork  
 
 **About my Portfolio**   
-This portfolio highlights my experience programming in Python and R as well as conducting analysis and writing reports. 
-
+This portfolio highlights projects focused on data analysis, reporting, and predictive modeling. Each project demonstrates the ability to work with real-world datasets, validate and analyze data, and translate results into meaningful insights that support business and operational decisions.
 
 # Work/Projects
 [Crime Case Study](https://github.com/angidelic/angidelic.github.io/tree/main/Crime%20Case%20Study)  
->Makes use of data from the Murder Accountability Project to make predictions about an offender when we have information about the victim.  
+> Analyzed homicide data from the Murder Accountability Project to identify patterns and develop predictive insights related to offender characteristics based on victim data.
+>>
+> Used Python for data cleaning, exploratory analysis, and predictive modeling. Evaluated model performance and identified key variables influencing outcomes.
+>>
 >>>Includes the case study and supporting python code
 
     
