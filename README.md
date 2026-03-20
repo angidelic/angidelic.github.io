@@ -38,11 +38,12 @@ This portfolio highlights projects focused on data analysis, reporting, and pred
 >>>Includes the case study and supporting python code
 
     
-[Dog Breed Analysis](https://github.com/angidelic/angidelic.github.io/tree/main/Dog%20Breed%20Analysis)  
- > Analysis of dog breeds and their intelligence  
- >>> White paper  
- >>> Presentation with audio  
- >>> Supporting python code  
+[Dog Breed Analysis](https://github.com/angidelic/angidelic.github.io/tree/main/Dog%20Breed%20Analysis)   > Analyzed dog breed data to explore patterns in intelligence, behavior, and classification across breeds. Conducted exploratory data analysis and statistical comparisons to identify trends and relationships within the dataset.
+>>
+Used Python to clean and structure the data, perform analysis, and visualize findings. Delivered results through a written report and presentation to clearly communicate insights and observed patterns.
+>>
+>>> White paper | Presentation with audio
+>>> Supporting python code  
   
 [General Exercises in Python](https://github.com/angidelic/angidelic.github.io/tree/main/General%20Exercises%20in%20Python)  
 >Variety of exercises and work using python, which includes:
@@ -58,8 +59,11 @@ This portfolio highlights projects focused on data analysis, reporting, and pred
 
 
 [Patient Characteristics Survey](https://github.com/angidelic/angidelic.github.io/tree/main/Patient%20Characteristic%20Survey)  
->Psychiatric patient survey and analysis to predict which patients would benefit from inpatient vs outpatient treatment programs.   
->>>White paper
+> Analyzed psychiatric patient survey data to identify factors influencing whether patients would benefit more from inpatient or outpatient treatment programs. Applied statistical analysis and predictive modeling to evaluate key variables and outcomes.
+>>
+Used Python for data preparation, modeling, and validation, and presented findings through a formal report and supporting analysis. Provided insights that could support treatment decision-making and resource allocation.
+>>
+>>White paper
 >>>Supporting python code
 
 
