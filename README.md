@@ -1,6 +1,8 @@
 # About  
 **About Me**  
-My name is Angie Oehler and I am a Data Scientist and Senior Data Project Analyust with over 10 years’ experience collecting, analyzing, and presenting data.  I am proficient in creating business intelligence reports for departments and senior management. I have also served as liaison between project managers and developers to create project documentation and workflows.  
+I am a data-focused project leader with over 10 years of experience delivering analytics, reporting, and data-driven solutions across complex business environments. My background spans data analysis, business intelligence, and Agile delivery, allowing me to bridge the gap between technical teams and business stakeholders.
+>>
+I specialize in building dashboards, validating data, and translating complex information into clear, actionable insights that support decision-making. I have led cross-functional initiatives, developed reporting frameworks, and worked closely with stakeholders to improve processes, reporting accuracy, and operational efficiency.  
 
 >**Education**
 >>I have master’s degrees in:
