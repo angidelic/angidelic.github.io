@@ -33,9 +33,9 @@ This portfolio highlights projects focused on data analysis, reporting, and pred
 [Crime Case Study](https://github.com/angidelic/angidelic.github.io/tree/main/Crime%20Case%20Study)  
 > Analyzed homicide data from the Murder Accountability Project to identify patterns and develop predictive insights related to offender characteristics based on victim data.
 >>
-> Used Python for data cleaning, exploratory analysis, and predictive modeling. Evaluated model performance and identified key variables influencing outcomes.
+>>*  Used Python for data cleaning, exploratory analysis, and predictive modeling. Evaluated model performance and identified key variables influencing outcomes.
 >>
->>>Includes the case study and supporting python code
+>>*  Includes the case study and supporting python code
 
     
 [Dog Breed Analysis](https://github.com/angidelic/angidelic.github.io/tree/main/Dog%20Breed%20Analysis)   > Analyzed dog breed data to explore patterns in intelligence, behavior, and classification across breeds. Conducted exploratory data analysis and statistical comparisons to identify trends and relationships within the dataset.
