@@ -42,8 +42,8 @@ This portfolio highlights projects focused on data analysis, reporting, and pred
 >>
 Used Python to clean and structure the data, perform analysis, and visualize findings. Delivered results through a written report and presentation to clearly communicate insights and observed patterns.
 >>
->>> White paper | Presentation with audio
->>> Supporting python code  
+>>>White paper | Presentation with audio
+>>>Supporting python code  
   
 [General Exercises in Python](https://github.com/angidelic/angidelic.github.io/tree/main/General%20Exercises%20in%20Python)  
 >Variety of exercises and work using python, which includes:
